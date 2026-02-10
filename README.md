@@ -3,4 +3,4 @@
 DevFlow skills testbed repository
 checking commit skill
 fff
-ddddcheckgggcheck pre ocmmit ddddd
+ddddcheckgggcheck pre ocmmit dddddfffftest
